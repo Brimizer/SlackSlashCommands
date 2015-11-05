@@ -1,0 +1,5 @@
+Flask==0.10.1
+Jinja2
+Werkzeug
+gunicorn==19.3.0
+Flask-PyMongo=0.4.0
