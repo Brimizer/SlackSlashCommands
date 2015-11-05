@@ -6,4 +6,4 @@ app = Flask(__name__)
 mongo = PyMongo(app)
 
 import server.views
-from server.commands import *
+from server.commands import ping_pong
